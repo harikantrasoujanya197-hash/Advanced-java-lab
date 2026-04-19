@@ -14,7 +14,9 @@ package github1c;
 public class pgm3a {
 	
 	
-	    public static void main(String[] args) {
+	    public static void main(String[] args) 
+	{
+
 	        // Basic String Creation
 	        System.out.println("=== String Creation and Basic Operations ===");
 	        String str1 = "Hello, World!";

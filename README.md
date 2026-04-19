@@ -14,3 +14,6 @@
 
 
 1b (5) o/p: https://github.com/user-attachments/assets/9ce84ff4-599e-4da7-9e46-e85baadb07b8
+
+
+1c(1) o/p :https://github.com/user-attachments/assets/1aeeff38-3fa3-4cd3-b235-f4cd21ee1ae9

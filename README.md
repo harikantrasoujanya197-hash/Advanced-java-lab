@@ -17,3 +17,6 @@
 
 
 1c(1) o/p :https://github.com/user-attachments/assets/1aeeff38-3fa3-4cd3-b235-f4cd21ee1ae9
+
+1c(2) o/p : https://github.com/user-attachments/assets/b655e147-b971-4ef6-9d22-b23a98ca6dd1
+

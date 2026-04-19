@@ -20,3 +20,4 @@
 
 1c(2) o/p : https://github.com/user-attachments/assets/b655e147-b971-4ef6-9d22-b23a98ca6dd1
 
+1c(3) o/p : https://github.com/user-attachments/assets/ba4f0626-b60c-4046-afab-84fb18268de1

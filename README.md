@@ -26,7 +26,16 @@
 
 1c(5) o/p : https://github.com/user-attachments/assets/20cca3a4-ee42-487f-8eca-11a2f41338d2
 
+2a o/p:https://github.com/user-attachments/assets/a508502f-724e-4d5e-ad67-592248e6ee1f
+https://github.com/user-attachments/assets/4a266334-9429-48b5-b76a-f7f25ff2b9ef
 
-2a o/p:https://github.com/user-attachments/assets/b300b8af-694e-47fc-8d6a-352bd3d6b58f
+
+
+
+
+2b o/p:https://github.com/user-attachments/assets/b300b8af-694e-47fc-8d6a-352bd3d6b58f
+
+
+
 
 

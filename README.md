@@ -1,5 +1,4 @@
-<img width="677" height="570" alt="4c" src="https://github.com/user-attachments/assets/ce5d46ca-62d4-429b-aa0e-f703fe505af0" />
-<img width="677" height="570" alt="4c" src="https://github.com/user-attachments/assets/aa8c42b0-7c45-4bef-8800-93b714dc31df" />
+
 
 1a (1) o/p :https://github.com/user-attachments/assets/aac4de67-8d81-4527-97cd-392f9fa7b3f0
 
